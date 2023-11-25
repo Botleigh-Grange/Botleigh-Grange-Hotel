@@ -1,4 +1,13 @@
-<a href="https://kim2015hamhe.github.io/Upcoming-events/">View events</a>
+
+![image](https://github.com/kim2015hamhe/The-weeks-events/assets/151997230/84ecc6ec-878f-4a4a-b2b5-16551767aa92)
+
+
+
+
+
+
+
+<a href="https://kim2015hamhe.github.io/Upcoming-events/">View December events here </a>
 
 
 
