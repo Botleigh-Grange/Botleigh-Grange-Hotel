@@ -1,9 +1,7 @@
-											
-aefgveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee											
-											
-											
-											
-											
+
+		
+![image](https://github.com/kim2015hamhe/Anym/assets/151997230/0a2724f7-a7d8-47f5-ad2c-078a9b744967)
+										
 											
 											
 											
@@ -62,8 +60,10 @@ aefgveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 											
 											
 											
-![image](https://github.com/kim2015hamhe/Anym/assets/151997230/c003deb4-bb33-4354-ade4-fbef14348f7a)
-									
+											
+											
+											
+																		
 											
 											
 											
