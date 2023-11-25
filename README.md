@@ -1,11 +1,6 @@
 
-		
-![image](https://github.com/kim2015hamhe/Anym/assets/151997230/0a2724f7-a7d8-47f5-ad2c-078a9b744967)
-										
-google.com
-![image](https://github.com/kim2015hamhe/The-weeks-events/assets/151997230/bf83d04c-1a2c-44bc-8738-4e91619ece6d)
 											
-											
+<a>Google.Com</a>											
 											
 											
 											
