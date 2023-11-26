@@ -1,5 +1,14 @@
+# Events in the area
+| Day | What is on |
+| ---------| ---------|
+| Monday | Footbal - Main Stadium/ SOX XX1 |
+| Tuesday | Cricket - Ageasbowl SOX XX2 |
+| Wednesda | N/A |
+| Thusrday | N/A |
+| Friday | Black firday  |
+| Saturday | Footbal - Main Stadium/ SOX XX1  |
+| Sunday | Car show - Hedge end SOX XX3 |
 
-![image](https://github.com/kim2015hamhe/The-weeks-events/assets/151997230/84ecc6ec-878f-4a4a-b2b5-16551767aa92)
 
 
 
