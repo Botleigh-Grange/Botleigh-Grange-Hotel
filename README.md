@@ -15,7 +15,7 @@
 
 
 
-<a href="https://kim2015hamhe.github.io/Upcoming-events/">View December events here </a>
+<a href="https://kim2015hamhe.github.io/Upcoming-events/"> ►View December events here </a>
 
 
 
