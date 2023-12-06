@@ -1,32 +1,11 @@
 # Events in the area
 
-| Day | What is on |
-| ---------| ---------|
-| Monday   |Football - Main Stadium/ SOX XX1 |
-| Tuesday  | Cricket - Ageasbowl SOX XX2 |
-| Wednesda | N/A |
-| Thusrday | Car show - Hedge end SOX XX3 |
-| Friday   | Black firday  |
+![image](https://github.com/Botleigh-Grange/Botleigh-Grange-Hotel/assets/151997230/0d569612-7514-411a-aa3e-a87608b6dbfb)
 
 
 
 
-
-# <a href="https://kim2015hamhe.github.io/Upcoming-events/"> ►View December events here </a>
-
-
-
-
-	
-											
-											
-											
-											
-											
-											
-											
-											
-											
+								
 											
 											
 											
