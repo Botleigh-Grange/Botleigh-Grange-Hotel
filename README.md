@@ -1,3 +1,5 @@
+[◄  Back to Home page](https://botleigh-grange.github.io/Home/)
+
 # Botleigh Grange Hotel History
 
 ![image](https://github.com/Botleigh-Grange/Botleigh-Grange-Hotel/assets/151997230/0d569612-7514-411a-aa3e-a87608b6dbfb)
